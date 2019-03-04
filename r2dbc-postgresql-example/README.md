@@ -47,7 +47,7 @@ http://localhost:8080/
 
 ##### Unit test
 
-Unit test will be using [TestContainers](https://www.testcontainers.org/) to sping update lightweight
+The unit testcases will be using [TestContainers](https://www.testcontainers.org/) to spin up the lightweight
 postgresql container instance.
 
 ##### Running the application
